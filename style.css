@@ -35,22 +35,5 @@ h1{
 	color: LightGreen;
 }
 @media only screen and (max-width: 1000px){
-	.mess{
-		width: 300px;
-	}
-	h1{
-		font-size: 25px;
-	}
-	#rochie{
-		width: 200px;
-		right: 50px;
-	}
-	#rocky{
-		height: 200px;
-		right: 50px;
-	}
-	#huy{
-		width: 300px;
-		left: 0px;
-	}
+
 }
